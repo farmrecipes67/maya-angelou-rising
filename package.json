@@ -1,0 +1,22 @@
+{
+  "name": "maya-angelou-rising",
+  "version": "1.0.0",
+  "description": "An npm package inspired by Maya Angelou — generates empowering, resilient verses about identity, strength, and rising above.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "poetry",
+    "maya-angelou",
+    "empowerment",
+    "verses",
+    "literature"
+  ],
+  "author": "papersaurus <farmrecipes@ast.engineer>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/farmrecipes67/maya-angelou-rising"
+  }
+}
